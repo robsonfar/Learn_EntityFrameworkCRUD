@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn_EntityFrameworkCRUD", "Learn_EntityFrameworkCRUD\Learn_EntityFrameworkCRUD.csproj", "{CF7CE4F6-76F0-4AEE-B143-6428645611E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7CE4F6-76F0-4AEE-B143-6428645611E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7CE4F6-76F0-4AEE-B143-6428645611E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7CE4F6-76F0-4AEE-B143-6428645611E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7CE4F6-76F0-4AEE-B143-6428645611E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CDDDB0E-58B8-48C1-81AC-3B34F10347ED}
+	EndGlobalSection
+EndGlobal
